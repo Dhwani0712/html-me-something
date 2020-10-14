@@ -1,0 +1,45 @@
+p {
+    margin: 18px;
+  }
+div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+  body {
+    background-image: url(https://previews.123rf.com/images/bondd/bondd1711/bondd171100166/89048335-food-cooking-background-white-marble-table-fresh-raw-organic-vegetables-tomatoes-peppers-mushrooms-o.jpg)
+  }
+
+  h1 {
+  font-family: "Sofia";
+  font-size: 40px;
+  color: rgb(148, 4, 88);
+  font-style: oblique;
+ }
+  .ingredients{
+      color: rgb(63, 19, 59);
+      font-size: 18px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  #name {
+      color: rgb(21, 8, 80);
+      font-size: 24px;
+      font-family: cursive;
+  }
+  h3 {
+      color: rgb(235, 65, 130);
+      font-size: 22px;
+  }
+ h4 {
+     color: orangered;
+     font-size: 18px;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ p {
+     color: rgb(116, 12, 35);
+     font-size: 17px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ 
